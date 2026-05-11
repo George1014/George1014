@@ -71,8 +71,8 @@ struct dev {
 ```
 ~/projects/
 ├── ios-app/        Swift · SwiftUI              →  App Store soon
-├── epitech/        C · systems programming      →  active @ S4
-├── security-lab/   C · Python · applied crypto  →  always
+├── epitech/        C · systems programming      →  active
+├── discord-bot/    TypeScript · Node.js · web     →  adding features
 └── web-tooling/    TypeScript · Node.js          →  side builds
 
 private-first. ships when it's ready.
