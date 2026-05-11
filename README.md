@@ -73,7 +73,7 @@ struct dev {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=George1014&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&exclude=Stars,Issues,PullRequest" />
+  <img src="https://github-profile-trophy.vercel.app/?username=George1014&theme=onedark&no-frame=true&no-bg=true&row=1&column=4&margin-w=10&title=Commits,Repositories,Experience,MultiLanguage" />
 </div>
 
 ---
