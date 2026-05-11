@@ -37,7 +37,7 @@ struct dev {
 - Currently building an **iOS app** — App Store release coming soon
 - Strong opinions about UX: if it can be one click instead of two, it should be
 - Happy to talk shop about C, TypeScript, Docker, or systems programming
-- Off-hours: Unity, CSFML, CTFs, and pure mathematics
+- Off-hours: Unity, CSFML, Javascript, and python
 
 ---
 
