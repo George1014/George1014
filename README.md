@@ -69,16 +69,11 @@ struct dev {
 ### `// stats`
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=George1014&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=George1014&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=George1014&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=1F6FEB&currStreakLabel=00D9FF&background=0d1117&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" alt="Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=George1014&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=George1014&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&exclude=Stars,Issues,PullRequest" />
 </div>
 
 ---
