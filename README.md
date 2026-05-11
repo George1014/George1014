@@ -72,7 +72,7 @@ struct dev {
 ~/projects/
 ├── ios-app/        Swift · SwiftUI              →  App Store soon
 ├── epitech/        C · systems programming      →  active
-├── discord-bot/    TypeScript · Node.js · web     →  adding features
+├── discord-bot/    React · discord.js · Node.js   →  adding features
 └── web-tooling/    TypeScript · Node.js          →  side builds
 
 private-first. ships when it's ready.
