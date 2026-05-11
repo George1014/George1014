@@ -41,7 +41,7 @@ struct dev {
 
 ---
 
-### Stack
+### `// stack`
 
 **Languages**
 
