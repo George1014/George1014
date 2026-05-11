@@ -66,23 +66,21 @@ struct dev {
 
 ---
 
-### `// stats`
+### `// building`
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=George1014&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=1F6FEB&currStreakLabel=00D9FF&background=0d1117&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" alt="Streak" />
-</div>
+```
+~/projects/
+├── ios-app/        Swift · SwiftUI              →  App Store soon
+├── epitech/        C · systems programming      →  active @ S4
+├── security-lab/   C · Python · applied crypto  →  always
+└── web-tooling/    TypeScript · Node.js          →  side builds
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=George1014&theme=onedark&no-frame=true&no-bg=true&row=1&column=3&margin-w=10&title=Commits,Repositories,MultiLanguage" />
-</div>
+private-first. ships when it's ready.
+```
 
 ---
 
 ### `// activity`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=George1014&theme=github-compact&hide_border=true&area=true&color=00D9FF&line=58A6FF&point=1F6FEB&bg_color=0d1117" />
-</div>
 
 <div align="center">
   <picture>
