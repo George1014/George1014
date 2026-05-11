@@ -1,5 +1,5 @@
 <h1 align="center">
-  <code>&gt;</code> Hey, I'm &lt;Petar&gt;_
+  <code>&gt;</code> Hey, I'm Petar_
 </h1>
 
 <h3 align="center">
